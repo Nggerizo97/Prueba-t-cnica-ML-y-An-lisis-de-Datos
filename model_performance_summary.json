@@ -1,0 +1,20 @@
+{
+  "best_model": "Random Forest",
+  "final_metrics": {
+    "accuracy": 0.8023012552301255,
+    "precision": 0.7484472049689441,
+    "recall": 0.6905444126074498,
+    "f1_score": 0.7183308494783904,
+    "roc_auc": 0.8703709822840499
+  },
+  "confusion_matrix": {
+    "true_negatives": 526,
+    "false_positives": 81,
+    "false_negatives": 108,
+    "true_positives": 241
+  },
+  "business_impact": {
+    "fraud_detection_rate": "69.1%",
+    "false_positive_rate": "13.3%"
+  }
+}
